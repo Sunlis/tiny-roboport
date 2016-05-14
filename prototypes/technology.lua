@@ -3,6 +3,7 @@ data:extend({
     type = "technology",
     name = "tiny-roboport",
     icon = "__tiny-roboport__/graphics/technology/tiny-roboport.png",
+    icon_size = 128,
     effects = {
       {
         type = "unlock-recipe",
